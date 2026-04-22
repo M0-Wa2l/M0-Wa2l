@@ -18,10 +18,14 @@ Alongside my medical journey, I'm actively learning programming and building my 
 I enjoy creating modern, user-friendly interfaces and continuously improving my skills in both design and development.  
 Always learning, always building.
 
-![Frontend](https://img.shields.io/badge/Frontend-Developer-22C55E)
-![FullStack](https://img.shields.io/badge/Future-FullStack-blue)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Designer-purple)
-![Nursing](https://img.shields.io/badge/Nursing-Student-red)
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Future-FullStack-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nursing-Student-0EA5E9?style=for-the-badge" />
+</p>
 
 ---
 
