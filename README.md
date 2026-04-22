@@ -1,20 +1,22 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2600&pause=600&color=22C55E&center=true&vCenter=true&width=900&lines=Mohamed+Wael;Frontend+%7C+Future+Fullstack+Developer;Always+Learning+%F0%9F%9A%80" /></div>
+---
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2600&pause=600&color=22C55E&center=true&vCenter=true&width=900&lines=MOHAMED+WAEL;FRONTEND+%7C+FUTURE+FULLSTACK+DEVELOPER;ALWAYS+LEARNING+%F0%9F%9A%80" />
+</div>
 
 ---
 
-# 👨‍💻 Mohamed Wael
+# 👨‍⚕️ About Me
 
-🚀 Frontend Developer | Future Full Stack Engineer
+I'm a Nursing student 🏥 with a strong passion for technology and creativity.  
+Alongside my medical journey, I'm actively learning programming and building my career in tech.
 
-Passionate about building modern web applications using clean code, scalable architecture, and real-world problem solving.
+💻 Frontend Developer  
+🚀 Aspiring Full Stack Developer  
+🎨 Graphic Designer  
+🧠 UI/UX Designer  
 
----
-
-# 🧠 About Me
-
-- 🛠 Building real-world projects to sharpen my skills
-- 🎯 Goal: Become a Production-ready Full Stack Developer
-- 📈 Always improving and learning new technologies
+I enjoy creating modern, user-friendly interfaces and continuously improving my skills in both design and development.  
+Always learning, always building.
 
 ---
 
@@ -23,12 +25,12 @@ Passionate about building modern web applications using clean code, scalable arc
 <div align="center">
   
 | 🌐 Frontend  | ⚙️ Backend & Databases |
-|-------------|-------------------------|
+|-------------|:-------------------------:|
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" /> |  <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb" /> |
 
 | 💻  Frameworks & libraries | 🧰 Tools |
 |---------------------------|---------|
-|<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,express,jquery,tailwind" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,linux" />
+|<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,express,jquery,tailwind,react,bootstrap" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,linux,md,visualstudio,ps,ai,pr,windows,obsidian" />
 </div>
 
 ---
@@ -43,14 +45,16 @@ Passionate about building modern web applications using clean code, scalable arc
 ---
 
 # 📂 Projects
+
 - 🧮 Calculator App
 - 📦 CRUD System
+- 💻 Landing Page 
 ---
 
 # 🤝 Connect With Me
 
-- LinkedIn → (حط لينك هنا)
-- WhatsApp → (حط لينك هنا)
+- LinkedIn → www.linkedin.com/in/m0-wa2l
+- WhatsApp → 01280215783
 
 📬 Open to Internships, Freelance & Collaboration
 
