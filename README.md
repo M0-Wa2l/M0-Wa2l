@@ -5,15 +5,15 @@
 
 ---
 
-# 👨‍⚕️ About Me
+# 👨‍⚕️ MOHAEMD WAEL
 
-I'm a Nursing student 🏥 with a strong passion for technology and creativity.  
+I'm a Nursing student with a strong passion for technology and creativity.  
 Alongside my medical journey, I'm actively learning programming and building my career in tech.
 
-💻 Frontend Developer  
-🚀 Aspiring Full Stack Developer  
-🎨 Graphic Designer  
-🧠 UI/UX Designer  
+- 💻 Frontend Developer  
+- 🚀 Aspiring Full Stack Developer  
+- 🎨 Graphic Designer  
+- 🧠 UI/UX Designer  
 
 I enjoy creating modern, user-friendly interfaces and continuously improving my skills in both design and development.  
 Always learning, always building.
@@ -34,11 +34,11 @@ Always learning, always building.
 <div align="center">
   
 | 🌐 Frontend  | ⚙️ Backend & Databases |
-|-------------|:-------------------------:|
+|:-------------:|:-------------------------:|
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" /> |  <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb" /> |
 
 | 💻  Frameworks & libraries | 🧰 Tools |
-|---------------------------|---------|
+|:---------------------------:|:---------:|
 |<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,express,jquery,tailwind,react,bootstrap" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,linux,md,visualstudio,ps,ai,pr,windows,obsidian" />
 </div>
 
@@ -57,7 +57,8 @@ Always learning, always building.
 
 - 🧮 Calculator App
 - 📦 CRUD System
-- 💻 Landing Page 
+- 💻 Landing Page
+- ✅ TO-DO App
 ---
 
 # 🤝 Connect With Me
