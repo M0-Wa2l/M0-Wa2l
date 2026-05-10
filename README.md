@@ -33,9 +33,9 @@ Always learning, always building.
 
 <div align="center">
   
-| 🌐 Frontend  | ⚙️ Backend & Databases |
-|:-------------:|:-------------------------:|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" /> |  <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb" /> |
+| 🌐 Frontend  | ⚙️ Backend & Databases | ⚡ Others |
+|:-------------:|:-------------------------:|:-------------------------:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" /> |  <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" /> |
 
 | 💻  Frameworks & libraries | 🧰 Tools |
 |:---------------------------:|:---------:|
