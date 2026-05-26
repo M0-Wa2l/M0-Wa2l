@@ -63,7 +63,7 @@ Always learning, always building.
 
 # 🤝 Connect With Me
 
-- LinkedIn → www.linkedin.com/in/m0-wa2l
+- LinkedIn → www.linkedin.com/in/mohamed-wael-578864411
 - WhatsApp → 01280215783
 
 📬 Open to Internships, Freelance & Collaboration
