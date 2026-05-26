@@ -5,7 +5,7 @@
 
 ---
 
-# 👨‍⚕️ MOHAEMD WAEL
+#  MOHAEMD WAEL
 
 I'm a Nursing student with a strong passion for technology and creativity.  
 Alongside my medical journey, I'm actively learning programming and building my career in tech.
@@ -50,15 +50,7 @@ Always learning, always building.
 - 💻 Build strong portfolio projects
 - ⚡ Master Full Stack Development
 - 🏗 Work on scalable real-world systems
-
----
-
-# 📂 Projects
-
-- 🧮 Calculator App
-- 📦 CRUD System
-- 💻 Landing Page
-- ✅ TO-DO App
+  
 ---
 
 # 🤝 Connect With Me
