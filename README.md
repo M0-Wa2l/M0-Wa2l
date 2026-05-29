@@ -44,19 +44,11 @@ Always learning, always building.
 
 ---
 
-# 🎯 Goals
-
-- 🏆 Land a Paid Internship
-- 💻 Build strong portfolio projects
-- ⚡ Master Full Stack Development
-- 🏗 Work on scalable real-world systems
-  
----
-
 # 🤝 Connect With Me
 
 - LinkedIn → www.linkedin.com/in/mohamed-wael-578864411
 - WhatsApp → 01280215783
+- FaceBook → https://www.facebook.com/mwMo7med?locale=ar_AR 
 
 📬 Open to Internships, Freelance & Collaboration
 
