@@ -39,7 +39,7 @@ Always learning, always building.
 
 | 💻  Frameworks & libraries | 🧰 Tools |
 |:---------------------------:|:---------:|
-|<img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,tailwind,react" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,md,visualstudio,ps,ai,pr" />
+|<img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,tailwind,react,axios" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,md,visualstudio,ps,ai,pr" />
 </div>
 
 ---
