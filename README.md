@@ -33,13 +33,13 @@ Always learning, always building.
 
 <div align="center">
   
-| 🌐 Frontend  | ⚙️ Backend & Databases | ⚡ Others |
-|:-------------:|:-------------------------:|:-------------------------:|
-| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" /> |  <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb" /> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" /> |
+| 🌐 Frontend  | ⚙️ Backend & Databases |
+|:-------------:|:-------------------------:|
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js" /> |  <img  src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,mongodb,cpp" /> |
 
 | 💻  Frameworks & libraries | 🧰 Tools |
 |:---------------------------:|:---------:|
-|<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,express,jquery,tailwind,react,bootstrap" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,linux,md,visualstudio,ps,ai,pr,windows,obsidian" />
+|<img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,tailwind,react" />|<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,md,visualstudio,ps,ai,pr" />
 </div>
 
 ---
